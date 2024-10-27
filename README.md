@@ -67,7 +67,7 @@ To run this project, ensure you have the following installed:
 
 ## Acknowledgments
 
-This project was inspired by ongoing research into bacterial dynamics and antibiotic resistance. Special thanks to the contributors and researchers in the field for their valuable insights and foundational work. Their contributions significantly influenced the design and functionality of this simulation.
+This project was completed as part of an honors class project for the 'BME 597 - Fundamentals of Quantitative Biology' graduate course with Dr. Justin Pritchard at the Pennsylvania State Univerity. Special thanks to Dr. Justin Pritchard, and Dr. Scott Leighow, and the contributors and researchers in the field for their valuable insights and foundational work. Their contributions significantly influenced the design and functionality of this simulation.
 
 ## License
 
