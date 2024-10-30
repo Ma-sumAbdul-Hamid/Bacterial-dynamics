@@ -1,5 +1,3 @@
-```matlab
-
 clear
 close all
 rng(5)
