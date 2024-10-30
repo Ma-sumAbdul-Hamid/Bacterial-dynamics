@@ -1,5 +1,6 @@
 ```matlab
 
+
 clear
 close all
 rng(5)
@@ -154,5 +155,4 @@ function phn = cellMutation(phn_j, phn)
     phn_next(idx_i) = phn_j;
     phn = [phn phn_next];
 end
-
 ```
